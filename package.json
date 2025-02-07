@@ -16,8 +16,11 @@
       },
       "0001": {
         "bilibili": [],
-        "done": false,
-        "ignore": false
+        "done": false
+      },
+      "0002": {
+        "bilibili": [],
+        "done": true
       },
       "assets": {
         "ignore": true
